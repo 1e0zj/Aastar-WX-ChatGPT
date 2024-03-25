@@ -1,21 +1,5 @@
 
 
-# 一颗星微信公众号
-
-#### ChatGPT接入微信公众号，帮助公众号集成ChatGPT进行聊天对话智能机器人
-
-### 微信公众号正式环境（扫码体验GPT）
-<img src="./img/公众号.jpg" width="400px" height="400px">
-
-
-### 扫码交流
-<img src="./img/qq群.png" width="400px" height="400px">
-<img src="./img/微信个人.png" width="400px" height="400px">
-
-## 效果截图
-<img src="./img/WechatIMG58.jpeg" width="400px">
-<img src="./img/template.jpeg" width="400px">
-
 ## 使用步骤：
 1. 主要配置说明如下：
 ```
